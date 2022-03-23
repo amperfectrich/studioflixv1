@@ -1,4 +1,4 @@
-# nexthour
+# StudioFlix
 
 A new Flutter application.
 
