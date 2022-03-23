@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69133051976",
+    "project_id": "studioflix-ce104",
+    "storage_bucket": "studioflix-ce104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69133051976:android:0a4e7c5d617479825e107d",
+        "android_client_info": {
+          "package_name": "com.studioflix.qubators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69133051976-u59tubj1gmthdg3vubcuuqpanaqirsum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioflix.qubators",
+            "certificate_hash": "abfd183860d94842d23881d3b7f110ac7ce948d3"
+          }
+        },
+        {
+          "client_id": "69133051976-035h6q92s45e5l1mbfu1o6pf4o9ljsoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Nbg3OXoRXBm10iNKGuNg90Gw_HxzirA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69133051976-035h6q92s45e5l1mbfu1o6pf4o9ljsoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

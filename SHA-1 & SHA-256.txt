@@ -1,0 +1,21 @@
+----------
+Variant: debug
+Config: debug
+Store: C:\Users\GAURAV\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: A4:F9:BA:A8:EA:BD:CD:05:C6:A9:F5:7E:14:E0:AC:03
+SHA1: 48:70:F7:DF:D3:38:E1:55:9C:5F:07:12:E9:22:57:DC:54:BC:B3:AB
+SHA-256: BF:AC:B3:E6:55:D9:58:B6:A3:A0:DB:05:F1:CC:F8:C9:9B:84:51:FF:85:AD:2D:67:8F:30:C1:B5:95:A1:D5:CF
+Valid until: Tuesday, 23 November, 2049
+----------
+Variant: release
+Config: release
+Store: E:\Office Projects\Next Hour\android\app\appname.jks
+Alias: appname
+MD5: 6D:48:CB:82:6E:3B:0E:6B:C9:DD:95:46:50:29:E0:A5
+SHA1: 6D:81:33:13:7E:01:CC:62:D6:93:A0:CB:57:CE:F2:30:AC:11:72:3F
+SHA-256: 3B:C1:DC:D3:70:DE:81:B4:99:96:E5:47:7F:88:71:37:E4:FB:4E:A4:69:3E:FE:C4:AC:17:F9:D8:D1:D4:21:CD
+Valid until: Wednesday, 17 March, 2049
+----------
+
+
