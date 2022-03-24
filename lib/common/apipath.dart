@@ -130,10 +130,10 @@ class APIData {
       'https://play.google.com/store/apps/details?id=' + '$androidAppId';
 
 // For notifications
-  static const String onSignalAppId = "c5473ddb-60c6-41b5-839b-36aac4beb3c0";
+  static const String onSignalAppId = "c5473d";
 
 // To play google drive video
-  static const String googleDriveApi = "AIzaSyA2AZbuEhBlk0KPZSPMDsQWYC8hOO4fRpw";
+  static const String googleDriveApi = "";
 
 // For Player
   static const String tvSeriesPlayer = domainLink + 'watchseason/';
